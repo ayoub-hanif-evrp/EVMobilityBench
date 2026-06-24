@@ -322,5 +322,3 @@ Algorithm details: `src/evrp_instance_generator_framework/variants/shared_algori
 ## License
 
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE).
-#   E V M o b i l i t y B e n c h  
- 
