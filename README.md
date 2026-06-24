@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>Generate realistic EVRP benchmark instances on real OpenStreetMap road networks</strong><br>
-  <sub>Classical, multi-depot, and two-echelon electric vehicle routing — ready to export and plug into your solvers</sub>
+  <strong>Reproducible benchmark generation for electric vehicle routing on real urban road networks</strong><br>
+  <em>Unified framework for classical EVRPTW, multi-depot EVRPTW, and two-echelon EVRP — with structured export for algorithm evaluation</em>
 </p>
 
 ---
