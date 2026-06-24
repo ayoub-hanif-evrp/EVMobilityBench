@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Reproducible benchmark generation for electric vehicle routing on real urban road networks</strong><br>
-  <em>Unified framework for classical EVRPTW, multi-depot EVRPTW, and two-echelon EVRP — with structured export for algorithm evaluation</em>
+  <em>Unified framework for classical EVRPTW, multi-depot EVRPTW, and two-echelon EVRP, with structured export for algorithm evaluation</em>
 </p>
 
 ---
