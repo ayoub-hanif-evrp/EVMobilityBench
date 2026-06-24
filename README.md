@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="logo_evrp.png" alt="EVMobilityBench logo" width="520">
+  <img src="logo_evrp.png" alt="EVMobilityBench" width="680">
 </p>
 
-<h1 align="center">EVMobilityBench</h1>
-
 <p align="center">
-  <strong>Realistic EVRP benchmark generator on OpenStreetMap road networks</strong><br><br>
-  Python &gt;=3.10 · <code>pip install -e .</code> · <code>import evrp_instance_generator_framework</code>
+  <strong>Generate realistic EVRP benchmark instances on real OpenStreetMap road networks</strong><br>
+  <sub>Classical, multi-depot, and two-echelon electric vehicle routing — ready to export and plug into your solvers</sub>
 </p>
 
 ---
