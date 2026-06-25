@@ -299,7 +299,6 @@ Matrices are **not written to disk by default** — enable `compute_matrices=Tru
 │   ├── Multi_Depot_EVRPTW_User_Guide.ipynb
 │   └── Two_Echelon_EVRP_User_Guide.ipynb
 ├── web/NiceGUI_app/                         # Web wizard
-├── assets/                                  # Branding assets
 ├── logo_evrp.png                            # Project logo (shown in README)
 └── cache/                                   # OSM disk cache (default)
 ```

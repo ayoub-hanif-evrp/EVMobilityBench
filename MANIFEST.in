@@ -1,4 +1,4 @@
 include README.md
 include LICENSE
 include CITATION.cff
-recursive-include assets *
+include logo_evrp.png
