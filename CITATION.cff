@@ -1,25 +1,24 @@
 cff-version: 1.2.0
 title: "EVMobilityBench: A Road-Based Framework for Generating Realistic Electric Vehicle Routing Benchmarks"
-message: >-
-  If you use this software, please cite the archived software release below.
-  The associated manuscript is currently under preparation/submission.
+message: "If you use this software, please cite the archived software release and the associated manuscript when available."
 type: software
 authors:
   - family-names: Hanif
-    given-names: A.
+    given-names: Ayoub
   - family-names: Abid
-    given-names: M.
+    given-names: Meryem
   - family-names: Tabaa
-    given-names: M.
+    given-names: Mohamed
   - family-names: Bensag
-    given-names: H.
+    given-names: Hassna
   - family-names: Youssfi
-    given-names: M.
+    given-names: Mohamed
 repository-code: "https://github.com/ayoub-hanif-evrp/EVMobilityBench"
 url: "https://github.com/ayoub-hanif-evrp/EVMobilityBench"
 license: MIT
-version: 0.1-submission
-date-released: "2026-06-24"
+doi: "10.5281/zenodo.20845678"
+version: "v0.1-submission"
+date-released: "2026-06-25"
 keywords:
   - EVRP
   - electric vehicle routing
