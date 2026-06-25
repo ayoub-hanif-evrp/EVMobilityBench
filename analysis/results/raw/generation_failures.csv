@@ -1,0 +1,76 @@
+run_id,city,variant,seed,settings,error_type,error_message,traceback_short
+2b4c00747c01dac22e12123d05,Madrid,multi_depot_evrptw,10001,"{""city"": ""Madrid"", ""country"": ""Spain"", ""n_customers"": 200, ""n_stations_spec"": 60, ""customer_pattern"": ""c"", ""time_window_tightness"": ""medium"", ""seed"": 10001, ""campaign_mode"": ""main"", ""node_elevation_provider"": ""srtm"", ""compute_matrices"": true, ""run_energy_feasibility"": true, ""variant"": ""multi_depot_evrptw"", ""num_additional_depots"": 2, ""num_satellites_param"": null, ""depot_lat"": 40.44302355, ""depot_lon"": -3.67854795, ""n_stations_resolved_reason"": ""fixed_int"", ""n_stations"": 60}",EvrpUserError,"Not enough depot candidates from OSM: got 0, need 2. Try a denser city or reduce num_additional_depots.","Traceback (most recent call last):
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\analysis\scripts\run_generation_campaign.py"", line 671, in main
+    inst, _, t_core = run_timed_generate(
+                      ~~~~~~~~~~~~~~~~~~^
+        cfg,
+        ^^^^
+    ...<3 lines>...
+        run_energy_feasibility=bool(run_enriched[""run_energy_feasibility""]),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\analysis\scripts\timed_generation.py"", line 59, in run_timed_generate
+    state = vd.prepare_graph_and_depots(cfg, ev, movement_graph)
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\src\evrp_instance_generator_framework\variants\multi_depot.py"", line 279, in prepare_graph_and_depots
+    additional_coords = _auto_generate_additional_depot_coords(
+        num_depots=config.num_additional_depots,
+    ...<8 lines>...
+        country=config.country,
+    )
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\src\evrp_instance_generator_framework\variants\multi_depot.py"", line 134, in _auto_generate_additional_depot_coords
+    raise EvrpUserError(
+    ...<2 lines>...
+    )
+evrp_instance_generator_framework.exceptions.EvrpUserError: Not enough depot candidates from OSM: got 0, need 2. Try a denser city or reduce num_additional_depots.
+"
+9178e15d33d3da70cbaa11ff9d,Madrid,multi_depot_evrptw,10002,"{""city"": ""Madrid"", ""country"": ""Spain"", ""n_customers"": 200, ""n_stations_spec"": 60, ""customer_pattern"": ""c"", ""time_window_tightness"": ""medium"", ""seed"": 10002, ""campaign_mode"": ""main"", ""node_elevation_provider"": ""srtm"", ""compute_matrices"": true, ""run_energy_feasibility"": true, ""variant"": ""multi_depot_evrptw"", ""num_additional_depots"": 2, ""num_satellites_param"": null, ""depot_lat"": 40.44302355, ""depot_lon"": -3.67854795, ""n_stations_resolved_reason"": ""fixed_int"", ""n_stations"": 60}",EvrpUserError,"Not enough depot candidates from OSM: got 0, need 2. Try a denser city or reduce num_additional_depots.","Traceback (most recent call last):
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\analysis\scripts\run_generation_campaign.py"", line 671, in main
+    inst, _, t_core = run_timed_generate(
+                      ~~~~~~~~~~~~~~~~~~^
+        cfg,
+        ^^^^
+    ...<3 lines>...
+        run_energy_feasibility=bool(run_enriched[""run_energy_feasibility""]),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\analysis\scripts\timed_generation.py"", line 59, in run_timed_generate
+    state = vd.prepare_graph_and_depots(cfg, ev, movement_graph)
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\src\evrp_instance_generator_framework\variants\multi_depot.py"", line 279, in prepare_graph_and_depots
+    additional_coords = _auto_generate_additional_depot_coords(
+        num_depots=config.num_additional_depots,
+    ...<8 lines>...
+        country=config.country,
+    )
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\src\evrp_instance_generator_framework\variants\multi_depot.py"", line 134, in _auto_generate_additional_depot_coords
+    raise EvrpUserError(
+    ...<2 lines>...
+    )
+evrp_instance_generator_framework.exceptions.EvrpUserError: Not enough depot candidates from OSM: got 0, need 2. Try a denser city or reduce num_additional_depots.
+"
+8e2adf4cd251d75327c14fc16f,Madrid,multi_depot_evrptw,10003,"{""city"": ""Madrid"", ""country"": ""Spain"", ""n_customers"": 200, ""n_stations_spec"": 60, ""customer_pattern"": ""c"", ""time_window_tightness"": ""medium"", ""seed"": 10003, ""campaign_mode"": ""main"", ""node_elevation_provider"": ""srtm"", ""compute_matrices"": true, ""run_energy_feasibility"": true, ""variant"": ""multi_depot_evrptw"", ""num_additional_depots"": 2, ""num_satellites_param"": null, ""depot_lat"": 40.44302355, ""depot_lon"": -3.67854795, ""n_stations_resolved_reason"": ""fixed_int"", ""n_stations"": 60}",EvrpUserError,"Not enough depot candidates from OSM: got 0, need 2. Try a denser city or reduce num_additional_depots.","Traceback (most recent call last):
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\analysis\scripts\run_generation_campaign.py"", line 671, in main
+    inst, _, t_core = run_timed_generate(
+                      ~~~~~~~~~~~~~~~~~~^
+        cfg,
+        ^^^^
+    ...<3 lines>...
+        run_energy_feasibility=bool(run_enriched[""run_energy_feasibility""]),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\analysis\scripts\timed_generation.py"", line 59, in run_timed_generate
+    state = vd.prepare_graph_and_depots(cfg, ev, movement_graph)
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\src\evrp_instance_generator_framework\variants\multi_depot.py"", line 279, in prepare_graph_and_depots
+    additional_coords = _auto_generate_additional_depot_coords(
+        num_depots=config.num_additional_depots,
+    ...<8 lines>...
+        country=config.country,
+    )
+  File ""C:\Users\AYOUB\OneDrive - EMSI\Bureau\PHD_WORK\EVRP_Library\Codes\src\evrp_instance_generator_framework\variants\multi_depot.py"", line 134, in _auto_generate_additional_depot_coords
+    raise EvrpUserError(
+    ...<2 lines>...
+    )
+evrp_instance_generator_framework.exceptions.EvrpUserError: Not enough depot candidates from OSM: got 0, need 2. Try a denser city or reduce num_additional_depots.
+"

@@ -1,0 +1,5 @@
+city,country,cold_cache_time_s,road_graph_nodes,road_graph_edges,timestamp
+Casablanca,Morocco,0.8108,37439,98562,2026-05-01T11:54:45.619042+00:00
+Madrid,Spain,0.6685,30914,60769,2026-05-01T11:54:46.296285+00:00
+Paris,France,0.2145,9236,17844,2026-05-01T11:54:46.514241+00:00
+Shenzhen,China,1.1255,45962,95045,2026-05-01T11:54:47.655312+00:00
