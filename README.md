@@ -299,6 +299,7 @@ Matrices are **not written to disk by default** — enable `compute_matrices=Tru
 │   ├── Multi_Depot_EVRPTW_User_Guide.ipynb
 │   └── Two_Echelon_EVRP_User_Guide.ipynb
 ├── web/NiceGUI_app/                         # Web wizard
+├── experiments/soft_computing_eval/       # GA/ACO/SA illustrative evaluation (Section 6.4)
 ├── logo_evrp.png                            # Project logo (shown in README)
 └── cache/                                   # OSM disk cache (default)
 ```
@@ -322,7 +323,7 @@ If you use EVMobilityBench, please cite the archived software release:
 
 > Hanif, A., Abid, M., Tabaa, M., Bensag, H., & Youssfi, M. (2026).  
 > *EVMobilityBench: A Road-Based Framework for Generating Realistic Electric Vehicle Routing Benchmarks* (v0.1-submission).  
-> Zenodo. https://doi.org/10.5281/zenodo.20845678
+> Zenodo. https://doi.org/10.5281/zenodo.20846471
 
 The associated manuscript is currently under preparation/submission.
 

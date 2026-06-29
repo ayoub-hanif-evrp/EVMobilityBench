@@ -1,0 +1,16 @@
+variant,seed,battery_capacity_kwh,max_matrix_leg_energy_kwh,max_customer_leg_energy_kwh,legs_exceeding_battery,total_matrix_legs,charging_needed_without_repair,note
+classical,1,75.0,3.4228766455045063,3.4228766455045063,0,40048,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+classical,2,75.0,3.4228766455045063,3.4228766455045063,0,40013,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+classical,3,75.0,3.4228766455045063,3.4228766455045063,0,40025,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+classical,4,75.0,3.235937000628718,3.235937000628718,0,40009,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+classical,5,75.0,3.4228766455045063,3.4228766455045063,0,40052,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+multi_depot,1,75.0,3.4228766455045063,3.4228766455045063,0,40049,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+multi_depot,2,75.0,3.4228766455045063,3.4228766455045063,0,40013,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+multi_depot,3,75.0,3.4228766455045063,3.4228766455045063,0,40020,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+multi_depot,4,75.0,3.235937000628718,3.235937000628718,0,40014,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+multi_depot,5,75.0,3.4228766455045063,3.4228766455045063,0,40045,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+two_echelon,1,75.0,3.4228766455045063,3.4228766455045063,0,40048,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+two_echelon,2,75.0,3.4228766455045063,3.4228766455045063,0,40010,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+two_echelon,3,75.0,3.4228766455045063,3.4228766455045063,0,40020,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+two_echelon,4,75.0,3.235937000628718,3.235937000628718,0,40009,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.
+two_echelon,5,75.0,3.4228766455045063,3.4228766455045063,0,40052,False,No matrix leg exceeds battery - station visits unlikely unless multi-leg route consumption exceeds capacity without recharge.

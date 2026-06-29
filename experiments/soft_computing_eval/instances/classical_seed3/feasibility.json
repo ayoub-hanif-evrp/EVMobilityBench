@@ -1,0 +1,40 @@
+{
+  "schema_version": "feasibility_tests_v1",
+  "feasibility_report_mode": "validity_time_energy",
+  "feasibility_variant": "classic_evrptw",
+  "validity": {
+    "ok": true,
+    "issues": [],
+    "errors": [],
+    "warnings": []
+  },
+  "time_feasibility": {
+    "ok": true,
+    "issues": [],
+    "mode": "matrix",
+    "num_customers": 150,
+    "num_stations": 50
+  },
+  "energy_feasibility": {
+    "ok": true,
+    "skipped": false,
+    "issues": [],
+    "battery_capacity_kwh": 75.0,
+    "mode": "direct_or_one_station_hop"
+  },
+  "all_passed": true,
+  "depot_node_id": 5638576572,
+  "time_window_tightness": "medium",
+  "service_graph": {
+    "ok": true,
+    "role_counts": {
+      "depot": 1,
+      "customer": 150,
+      "station": 50
+    },
+    "duplicate_service_node_count": 0,
+    "customer_station_overlap_count": 0,
+    "errors": [],
+    "warnings": []
+  }
+}

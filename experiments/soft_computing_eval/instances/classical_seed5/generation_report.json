@@ -1,0 +1,55 @@
+{
+  "status": "accepted",
+  "failure_reasons": [],
+  "city": "Casablanca",
+  "country": "Morocco",
+  "variant": "classic_evrptw",
+  "seed": 5,
+  "customer_pattern": "rc",
+  "time_window_tightness": "medium",
+  "num_customers_requested": 150,
+  "num_customers_exported": 150,
+  "num_stations_requested": 50,
+  "num_stations_exported": 50,
+  "service_node_count": 201,
+  "role_counts": {
+    "depot": 1,
+    "customer": 150,
+    "station": 50
+  },
+  "duplicate_service_node_count": 0,
+  "customer_station_overlap_count": 0,
+  "snap_distance_summary": {
+    "depot_m": 9.52480010752326,
+    "customer_mean_m": 48.10384033313201,
+    "customer_max_m": 148.2826485309083,
+    "station_mean_m": 49.6325368800696,
+    "station_max_m": 120.85645761695221
+  },
+  "time_window_summary": {
+    "min_width_s": 5400.0,
+    "median_width_s": 5400.0,
+    "mean_width_s": 5400.0,
+    "max_width_s": 5400.0,
+    "mean_service_time_s": 365.73333333333335,
+    "max_service_to_window_ratio": 0.10740740740740741
+  },
+  "station_source_summary": {
+    "observed_ev": 9,
+    "proxy_host": 41,
+    "synthetic": 0
+  },
+  "road_graph_summary": {
+    "movement_node_count": 37431,
+    "edge_count": 98537,
+    "service_nodes_reachable": true
+  },
+  "repair_summary": {
+    "customer_resamples": 0,
+    "station_resamples": 14,
+    "time_window_repairs": 150,
+    "duplicate_rejections": 0,
+    "tight_window_warnings": 0,
+    "customer_rejection_reasons": {}
+  }
+}

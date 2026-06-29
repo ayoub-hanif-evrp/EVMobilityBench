@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "lat": 33.5667382,
+    "lon": -7.5970232,
+    "facility_lat": 33.5666533,
+    "facility_lon": -7.59700955,
+    "movement_node_id": 5638576572,
+    "snap_distance_m": 9.52480010752326,
+    "time_open_s": 28800,
+    "time_close_s": 61200,
+    "is_primary": false
+  },
+  {
+    "id": 1,
+    "lat": 33.6027714,
+    "lon": -7.582073,
+    "facility_lat": 33.60246335,
+    "facility_lon": -7.582234699999999,
+    "movement_node_id": 456500261,
+    "snap_distance_m": 37.38426177109335,
+    "time_open_s": 28800,
+    "time_close_s": 61200,
+    "is_primary": false
+  },
+  {
+    "id": 2,
+    "lat": 33.577641,
+    "lon": -7.704496,
+    "facility_lat": 33.57745263917053,
+    "facility_lon": -7.704876903304957,
+    "movement_node_id": 332063383,
+    "snap_distance_m": 41.03500442254552,
+    "time_open_s": 28800,
+    "time_close_s": 61200,
+    "is_primary": false
+  }
+]

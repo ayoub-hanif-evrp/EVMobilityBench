@@ -1,0 +1,1007 @@
+[
+  {
+    "index": 0,
+    "node_id": 5638576572,
+    "role": "depot"
+  },
+  {
+    "index": 1,
+    "node_id": 2956576739,
+    "role": "customer"
+  },
+  {
+    "index": 2,
+    "node_id": 6974289393,
+    "role": "customer"
+  },
+  {
+    "index": 3,
+    "node_id": 411803601,
+    "role": "customer"
+  },
+  {
+    "index": 4,
+    "node_id": 12668858748,
+    "role": "customer"
+  },
+  {
+    "index": 5,
+    "node_id": 13352942879,
+    "role": "customer"
+  },
+  {
+    "index": 6,
+    "node_id": 12112120674,
+    "role": "customer"
+  },
+  {
+    "index": 7,
+    "node_id": 12112133185,
+    "role": "customer"
+  },
+  {
+    "index": 8,
+    "node_id": 12640674703,
+    "role": "customer"
+  },
+  {
+    "index": 9,
+    "node_id": 13513064728,
+    "role": "customer"
+  },
+  {
+    "index": 10,
+    "node_id": 12112071556,
+    "role": "customer"
+  },
+  {
+    "index": 11,
+    "node_id": 6657360971,
+    "role": "customer"
+  },
+  {
+    "index": 12,
+    "node_id": 6974249987,
+    "role": "customer"
+  },
+  {
+    "index": 13,
+    "node_id": 459478113,
+    "role": "customer"
+  },
+  {
+    "index": 14,
+    "node_id": 12145342015,
+    "role": "customer"
+  },
+  {
+    "index": 15,
+    "node_id": 5673670020,
+    "role": "customer"
+  },
+  {
+    "index": 16,
+    "node_id": 3525268042,
+    "role": "customer"
+  },
+  {
+    "index": 17,
+    "node_id": 4764491723,
+    "role": "customer"
+  },
+  {
+    "index": 18,
+    "node_id": 3525268050,
+    "role": "customer"
+  },
+  {
+    "index": 19,
+    "node_id": 4617185111,
+    "role": "customer"
+  },
+  {
+    "index": 20,
+    "node_id": 4617185259,
+    "role": "customer"
+  },
+  {
+    "index": 21,
+    "node_id": 4764492509,
+    "role": "customer"
+  },
+  {
+    "index": 22,
+    "node_id": 3525268043,
+    "role": "customer"
+  },
+  {
+    "index": 23,
+    "node_id": 4617185104,
+    "role": "customer"
+  },
+  {
+    "index": 24,
+    "node_id": 4617185117,
+    "role": "customer"
+  },
+  {
+    "index": 25,
+    "node_id": 3525268038,
+    "role": "customer"
+  },
+  {
+    "index": 26,
+    "node_id": 4764491741,
+    "role": "customer"
+  },
+  {
+    "index": 27,
+    "node_id": 3049256081,
+    "role": "customer"
+  },
+  {
+    "index": 28,
+    "node_id": 4617185273,
+    "role": "customer"
+  },
+  {
+    "index": 29,
+    "node_id": 4617185174,
+    "role": "customer"
+  },
+  {
+    "index": 30,
+    "node_id": 4617185263,
+    "role": "customer"
+  },
+  {
+    "index": 31,
+    "node_id": 12977381993,
+    "role": "customer"
+  },
+  {
+    "index": 32,
+    "node_id": 9562653942,
+    "role": "customer"
+  },
+  {
+    "index": 33,
+    "node_id": 12637739484,
+    "role": "customer"
+  },
+  {
+    "index": 34,
+    "node_id": 12948834922,
+    "role": "customer"
+  },
+  {
+    "index": 35,
+    "node_id": 6825843453,
+    "role": "customer"
+  },
+  {
+    "index": 36,
+    "node_id": 5545468606,
+    "role": "customer"
+  },
+  {
+    "index": 37,
+    "node_id": 6804787134,
+    "role": "customer"
+  },
+  {
+    "index": 38,
+    "node_id": 9713068617,
+    "role": "customer"
+  },
+  {
+    "index": 39,
+    "node_id": 6825843424,
+    "role": "customer"
+  },
+  {
+    "index": 40,
+    "node_id": 6817789829,
+    "role": "customer"
+  },
+  {
+    "index": 41,
+    "node_id": 1216328949,
+    "role": "customer"
+  },
+  {
+    "index": 42,
+    "node_id": 1849823112,
+    "role": "customer"
+  },
+  {
+    "index": 43,
+    "node_id": 5678028994,
+    "role": "customer"
+  },
+  {
+    "index": 44,
+    "node_id": 429313789,
+    "role": "customer"
+  },
+  {
+    "index": 45,
+    "node_id": 2244969144,
+    "role": "customer"
+  },
+  {
+    "index": 46,
+    "node_id": 12798497323,
+    "role": "customer"
+  },
+  {
+    "index": 47,
+    "node_id": 12798497315,
+    "role": "customer"
+  },
+  {
+    "index": 48,
+    "node_id": 4203299192,
+    "role": "customer"
+  },
+  {
+    "index": 49,
+    "node_id": 3525485493,
+    "role": "customer"
+  },
+  {
+    "index": 50,
+    "node_id": 1849432553,
+    "role": "customer"
+  },
+  {
+    "index": 51,
+    "node_id": 6828326303,
+    "role": "customer"
+  },
+  {
+    "index": 52,
+    "node_id": 12879195018,
+    "role": "customer"
+  },
+  {
+    "index": 53,
+    "node_id": 12879195027,
+    "role": "customer"
+  },
+  {
+    "index": 54,
+    "node_id": 6830425586,
+    "role": "customer"
+  },
+  {
+    "index": 55,
+    "node_id": 10275732615,
+    "role": "customer"
+  },
+  {
+    "index": 56,
+    "node_id": 3525485507,
+    "role": "customer"
+  },
+  {
+    "index": 57,
+    "node_id": 12879195022,
+    "role": "customer"
+  },
+  {
+    "index": 58,
+    "node_id": 12879195102,
+    "role": "customer"
+  },
+  {
+    "index": 59,
+    "node_id": 10275732580,
+    "role": "customer"
+  },
+  {
+    "index": 60,
+    "node_id": 3525485504,
+    "role": "customer"
+  },
+  {
+    "index": 61,
+    "node_id": 11900481018,
+    "role": "customer"
+  },
+  {
+    "index": 62,
+    "node_id": 13363698473,
+    "role": "customer"
+  },
+  {
+    "index": 63,
+    "node_id": 1926951762,
+    "role": "customer"
+  },
+  {
+    "index": 64,
+    "node_id": 11900616263,
+    "role": "customer"
+  },
+  {
+    "index": 65,
+    "node_id": 11903214803,
+    "role": "customer"
+  },
+  {
+    "index": 66,
+    "node_id": 6769199730,
+    "role": "customer"
+  },
+  {
+    "index": 67,
+    "node_id": 3425114060,
+    "role": "customer"
+  },
+  {
+    "index": 68,
+    "node_id": 6769452773,
+    "role": "customer"
+  },
+  {
+    "index": 69,
+    "node_id": 12883833401,
+    "role": "customer"
+  },
+  {
+    "index": 70,
+    "node_id": 5388489251,
+    "role": "customer"
+  },
+  {
+    "index": 71,
+    "node_id": 12598271807,
+    "role": "customer"
+  },
+  {
+    "index": 72,
+    "node_id": 6817772040,
+    "role": "customer"
+  },
+  {
+    "index": 73,
+    "node_id": 3043177867,
+    "role": "customer"
+  },
+  {
+    "index": 74,
+    "node_id": 5388489299,
+    "role": "customer"
+  },
+  {
+    "index": 75,
+    "node_id": 6027910640,
+    "role": "customer"
+  },
+  {
+    "index": 76,
+    "node_id": 6774267529,
+    "role": "customer"
+  },
+  {
+    "index": 77,
+    "node_id": 11900415658,
+    "role": "customer"
+  },
+  {
+    "index": 78,
+    "node_id": 1544552310,
+    "role": "customer"
+  },
+  {
+    "index": 79,
+    "node_id": 9562653943,
+    "role": "customer"
+  },
+  {
+    "index": 80,
+    "node_id": 8391233424,
+    "role": "customer"
+  },
+  {
+    "index": 81,
+    "node_id": 12197199194,
+    "role": "customer"
+  },
+  {
+    "index": 82,
+    "node_id": 12520226103,
+    "role": "customer"
+  },
+  {
+    "index": 83,
+    "node_id": 2248950549,
+    "role": "customer"
+  },
+  {
+    "index": 84,
+    "node_id": 3049352083,
+    "role": "customer"
+  },
+  {
+    "index": 85,
+    "node_id": 2424887148,
+    "role": "customer"
+  },
+  {
+    "index": 86,
+    "node_id": 10723723539,
+    "role": "customer"
+  },
+  {
+    "index": 87,
+    "node_id": 5514505539,
+    "role": "customer"
+  },
+  {
+    "index": 88,
+    "node_id": 459750808,
+    "role": "customer"
+  },
+  {
+    "index": 89,
+    "node_id": 6646951411,
+    "role": "customer"
+  },
+  {
+    "index": 90,
+    "node_id": 4183404486,
+    "role": "customer"
+  },
+  {
+    "index": 91,
+    "node_id": 459996420,
+    "role": "customer"
+  },
+  {
+    "index": 92,
+    "node_id": 5528215386,
+    "role": "customer"
+  },
+  {
+    "index": 93,
+    "node_id": 6847507023,
+    "role": "customer"
+  },
+  {
+    "index": 94,
+    "node_id": 3215132627,
+    "role": "customer"
+  },
+  {
+    "index": 95,
+    "node_id": 456500261,
+    "role": "customer"
+  },
+  {
+    "index": 96,
+    "node_id": 10589343113,
+    "role": "customer"
+  },
+  {
+    "index": 97,
+    "node_id": 458747336,
+    "role": "customer"
+  },
+  {
+    "index": 98,
+    "node_id": 4584732411,
+    "role": "customer"
+  },
+  {
+    "index": 99,
+    "node_id": 8391233273,
+    "role": "customer"
+  },
+  {
+    "index": 100,
+    "node_id": 5664725478,
+    "role": "customer"
+  },
+  {
+    "index": 101,
+    "node_id": 1849519856,
+    "role": "customer"
+  },
+  {
+    "index": 102,
+    "node_id": 455500493,
+    "role": "customer"
+  },
+  {
+    "index": 103,
+    "node_id": 2585733970,
+    "role": "customer"
+  },
+  {
+    "index": 104,
+    "node_id": 6665646089,
+    "role": "customer"
+  },
+  {
+    "index": 105,
+    "node_id": 2187447255,
+    "role": "customer"
+  },
+  {
+    "index": 106,
+    "node_id": 13359142176,
+    "role": "customer"
+  },
+  {
+    "index": 107,
+    "node_id": 2401974370,
+    "role": "customer"
+  },
+  {
+    "index": 108,
+    "node_id": 5107981040,
+    "role": "customer"
+  },
+  {
+    "index": 109,
+    "node_id": 12385356118,
+    "role": "customer"
+  },
+  {
+    "index": 110,
+    "node_id": 6970430510,
+    "role": "customer"
+  },
+  {
+    "index": 111,
+    "node_id": 2873703631,
+    "role": "customer"
+  },
+  {
+    "index": 112,
+    "node_id": 2187370129,
+    "role": "customer"
+  },
+  {
+    "index": 113,
+    "node_id": 1849433511,
+    "role": "customer"
+  },
+  {
+    "index": 114,
+    "node_id": 3214992082,
+    "role": "customer"
+  },
+  {
+    "index": 115,
+    "node_id": 1746196229,
+    "role": "customer"
+  },
+  {
+    "index": 116,
+    "node_id": 10729449087,
+    "role": "customer"
+  },
+  {
+    "index": 117,
+    "node_id": 5686129294,
+    "role": "customer"
+  },
+  {
+    "index": 118,
+    "node_id": 1130782946,
+    "role": "customer"
+  },
+  {
+    "index": 119,
+    "node_id": 456473157,
+    "role": "customer"
+  },
+  {
+    "index": 120,
+    "node_id": 491465448,
+    "role": "customer"
+  },
+  {
+    "index": 121,
+    "node_id": 6753126326,
+    "role": "customer"
+  },
+  {
+    "index": 122,
+    "node_id": 12964522799,
+    "role": "customer"
+  },
+  {
+    "index": 123,
+    "node_id": 3958634349,
+    "role": "customer"
+  },
+  {
+    "index": 124,
+    "node_id": 5626812134,
+    "role": "customer"
+  },
+  {
+    "index": 125,
+    "node_id": 429316558,
+    "role": "customer"
+  },
+  {
+    "index": 126,
+    "node_id": 1540909846,
+    "role": "customer"
+  },
+  {
+    "index": 127,
+    "node_id": 1016482723,
+    "role": "customer"
+  },
+  {
+    "index": 128,
+    "node_id": 424064635,
+    "role": "customer"
+  },
+  {
+    "index": 129,
+    "node_id": 428468033,
+    "role": "customer"
+  },
+  {
+    "index": 130,
+    "node_id": 4765500860,
+    "role": "customer"
+  },
+  {
+    "index": 131,
+    "node_id": 2801146980,
+    "role": "customer"
+  },
+  {
+    "index": 132,
+    "node_id": 5367021406,
+    "role": "customer"
+  },
+  {
+    "index": 133,
+    "node_id": 5552088460,
+    "role": "customer"
+  },
+  {
+    "index": 134,
+    "node_id": 2561299507,
+    "role": "customer"
+  },
+  {
+    "index": 135,
+    "node_id": 3049255945,
+    "role": "customer"
+  },
+  {
+    "index": 136,
+    "node_id": 3061148179,
+    "role": "customer"
+  },
+  {
+    "index": 137,
+    "node_id": 1849562126,
+    "role": "customer"
+  },
+  {
+    "index": 138,
+    "node_id": 1849822488,
+    "role": "customer"
+  },
+  {
+    "index": 139,
+    "node_id": 3926276217,
+    "role": "customer"
+  },
+  {
+    "index": 140,
+    "node_id": 11799720908,
+    "role": "customer"
+  },
+  {
+    "index": 141,
+    "node_id": 2161261043,
+    "role": "customer"
+  },
+  {
+    "index": 142,
+    "node_id": 5668012248,
+    "role": "customer"
+  },
+  {
+    "index": 143,
+    "node_id": 3424903247,
+    "role": "customer"
+  },
+  {
+    "index": 144,
+    "node_id": 6734964550,
+    "role": "customer"
+  },
+  {
+    "index": 145,
+    "node_id": 1414056170,
+    "role": "customer"
+  },
+  {
+    "index": 146,
+    "node_id": 10588877034,
+    "role": "customer"
+  },
+  {
+    "index": 147,
+    "node_id": 457888126,
+    "role": "customer"
+  },
+  {
+    "index": 148,
+    "node_id": 4616466873,
+    "role": "customer"
+  },
+  {
+    "index": 149,
+    "node_id": 12788637505,
+    "role": "customer"
+  },
+  {
+    "index": 150,
+    "node_id": 6669862062,
+    "role": "customer"
+  },
+  {
+    "index": 151,
+    "node_id": 760280181,
+    "role": "station"
+  },
+  {
+    "index": 152,
+    "node_id": 2139416215,
+    "role": "station"
+  },
+  {
+    "index": 153,
+    "node_id": 4190908444,
+    "role": "station"
+  },
+  {
+    "index": 154,
+    "node_id": 4214042837,
+    "role": "station"
+  },
+  {
+    "index": 155,
+    "node_id": 5050753023,
+    "role": "station"
+  },
+  {
+    "index": 156,
+    "node_id": 5637856918,
+    "role": "station"
+  },
+  {
+    "index": 157,
+    "node_id": 6772043173,
+    "role": "station"
+  },
+  {
+    "index": 158,
+    "node_id": 9295682651,
+    "role": "station"
+  },
+  {
+    "index": 159,
+    "node_id": 12165315214,
+    "role": "station"
+  },
+  {
+    "index": 160,
+    "node_id": 8401169055,
+    "role": "station"
+  },
+  {
+    "index": 161,
+    "node_id": 13352942952,
+    "role": "station"
+  },
+  {
+    "index": 162,
+    "node_id": 8391222415,
+    "role": "station"
+  },
+  {
+    "index": 163,
+    "node_id": 3936112701,
+    "role": "station"
+  },
+  {
+    "index": 164,
+    "node_id": 10723723660,
+    "role": "station"
+  },
+  {
+    "index": 165,
+    "node_id": 6474152804,
+    "role": "station"
+  },
+  {
+    "index": 166,
+    "node_id": 458747352,
+    "role": "station"
+  },
+  {
+    "index": 167,
+    "node_id": 11346099526,
+    "role": "station"
+  },
+  {
+    "index": 168,
+    "node_id": 5583278820,
+    "role": "station"
+  },
+  {
+    "index": 169,
+    "node_id": 12124724588,
+    "role": "station"
+  },
+  {
+    "index": 170,
+    "node_id": 456491156,
+    "role": "station"
+  },
+  {
+    "index": 171,
+    "node_id": 1129413226,
+    "role": "station"
+  },
+  {
+    "index": 172,
+    "node_id": 12168064222,
+    "role": "station"
+  },
+  {
+    "index": 173,
+    "node_id": 6204178189,
+    "role": "station"
+  },
+  {
+    "index": 174,
+    "node_id": 9495610642,
+    "role": "station"
+  },
+  {
+    "index": 175,
+    "node_id": 5626813073,
+    "role": "station"
+  },
+  {
+    "index": 176,
+    "node_id": 1848117351,
+    "role": "station"
+  },
+  {
+    "index": 177,
+    "node_id": 1690659349,
+    "role": "station"
+  },
+  {
+    "index": 178,
+    "node_id": 2880504212,
+    "role": "station"
+  },
+  {
+    "index": 179,
+    "node_id": 2353519278,
+    "role": "station"
+  },
+  {
+    "index": 180,
+    "node_id": 2139416385,
+    "role": "station"
+  },
+  {
+    "index": 181,
+    "node_id": 1123527563,
+    "role": "station"
+  },
+  {
+    "index": 182,
+    "node_id": 1975935893,
+    "role": "station"
+  },
+  {
+    "index": 183,
+    "node_id": 5620694849,
+    "role": "station"
+  },
+  {
+    "index": 184,
+    "node_id": 1853230674,
+    "role": "station"
+  },
+  {
+    "index": 185,
+    "node_id": 5315125782,
+    "role": "station"
+  },
+  {
+    "index": 186,
+    "node_id": 1690522589,
+    "role": "station"
+  },
+  {
+    "index": 187,
+    "node_id": 1625065590,
+    "role": "station"
+  },
+  {
+    "index": 188,
+    "node_id": 3284823305,
+    "role": "station"
+  },
+  {
+    "index": 189,
+    "node_id": 1932875158,
+    "role": "station"
+  },
+  {
+    "index": 190,
+    "node_id": 332066181,
+    "role": "station"
+  },
+  {
+    "index": 191,
+    "node_id": 1540573075,
+    "role": "station"
+  },
+  {
+    "index": 192,
+    "node_id": 429436589,
+    "role": "station"
+  },
+  {
+    "index": 193,
+    "node_id": 1918026945,
+    "role": "station"
+  },
+  {
+    "index": 194,
+    "node_id": 4913239671,
+    "role": "station"
+  },
+  {
+    "index": 195,
+    "node_id": 2568586160,
+    "role": "station"
+  },
+  {
+    "index": 196,
+    "node_id": 5640662467,
+    "role": "station"
+  },
+  {
+    "index": 197,
+    "node_id": 2694409781,
+    "role": "station"
+  },
+  {
+    "index": 198,
+    "node_id": 428475090,
+    "role": "station"
+  },
+  {
+    "index": 199,
+    "node_id": 4244226993,
+    "role": "station"
+  },
+  {
+    "index": 200,
+    "node_id": 6027910639,
+    "role": "station"
+  }
+]

@@ -1,0 +1,66 @@
+city: Casablanca
+country: Morocco
+depot_lat: 33.5666533
+depot_lon: -7.59700955
+num_customers: 150
+num_stations: 50
+customer_pattern: rc
+num_additional_depots: 2
+num_satellites: 4
+
+variants:
+  - classical
+  - multi_depot
+  - two_echelon
+
+algorithms:
+  - GA
+  - ACO
+  - SA
+
+seeds:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+
+objective:
+  alpha_energy: 0.1
+  beta_vehicles: 1000
+  large_penalty: 1000000
+
+fleet:
+  use_dynamic_fleet_size: true
+  vehicle_load_capacity: 200
+  kmax_rule: "max(kmin_capacity + 5, ceil(1.5 * kmin_capacity))"
+
+ga:
+  population_size: 50
+  generations: 150
+  crossover_rate: 0.8
+  mutation_rate: 0.2
+  elite_size: 2
+  tournament_size: 3
+
+aco:
+  num_ants: 30
+  iterations: 150
+  pheromone_alpha: 1.0
+  heuristic_beta: 2.0
+  evaporation_rate: 0.2
+  initial_pheromone: 1.0
+
+sa:
+  initial_temperature: 1000
+  cooling_rate: 0.995
+  iterations: 10000
+  min_temperature: 0.001
+
+generation:
+  compute_matrices: true
+  run_energy_feasibility: true
+  node_elevation_provider: srtm
+
+output:
+  overwrite: false
