@@ -16,8 +16,9 @@ authors:
 repository-code: "https://github.com/ayoub-hanif-evrp/EVMobilityBench"
 url: "https://github.com/ayoub-hanif-evrp/EVMobilityBench"
 license: MIT
+doi: "10.5281/zenodo.21041648"
 version: "v0.1-submission"
-date-released: "2026-06-25"
+date-released: "2026-06-29"
 keywords:
   - EVRP
   - electric vehicle routing

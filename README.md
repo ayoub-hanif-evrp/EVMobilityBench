@@ -319,13 +319,13 @@ Algorithm details: `src/evrp_instance_generator_framework/variants/shared_algori
 
 ## Citation
 
-If you use EVMobilityBench, please cite this software release and the associated manuscript when available:
+If you use EVMobilityBench, please cite the archived software release:
 
 > Hanif, A., Abid, M., Tabaa, M., Bensag, H., & Youssfi, M. (2026).  
 > *EVMobilityBench: A Road-Based Framework for Generating Realistic Electric Vehicle Routing Benchmarks* (v0.1-submission).  
-> GitHub: https://github.com/ayoub-hanif-evrp/EVMobilityBench
+> Zenodo. https://doi.org/10.5281/zenodo.21041648
 
-A Zenodo DOI will be added after archival. See also `CITATION.cff`.
+See also [`CITATION.cff`](CITATION.cff) for machine-readable metadata.
 
 The associated manuscript is currently under preparation/submission.
 
